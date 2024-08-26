@@ -7,7 +7,6 @@
     </p>
     <p>
         Let's connect! <a href="mailto:jhonatan.oliveira.dev@gmail.com">Email</a> | 
-        <a href="https://github.com/jhonatan-oliveira">GitHub</a> | 
         <a href="https://linkedin.com/in/jhonatan-oliveira">LinkedIn</a>
     </p>
     <hr>
@@ -19,7 +18,6 @@
     </p>
     <p>
         Vamos nos conectar! <a href="mailto:jhonatan.oliveira.dev@gmail.com">Email</a> | 
-        <a href="https://github.com/jhonatan-oliveira">GitHub</a> | 
         <a href="https://linkedin.com/in/jhonatan-oliveira">LinkedIn</a>
     </p>
 </div>
