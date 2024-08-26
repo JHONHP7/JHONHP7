@@ -1,11 +1,25 @@
-<div align="center"> 
-      <p>Hello, my name is Jhonatan Silva! 😁
-      I am currently studying information systems at the Fluminense Federal University - UFF.
-      And I'm looking for an internship.
-      I have knowledge in python/ HTML/ CSS/ JAVA/ Spring/ Angular/ JavaScript/ C/ PHP/ Flutter/ WordPress/  GIT/ C++/ and C#
-      </p>
+<div align="left">
+    <p>
+        Hi, I'm Jhonatan Oliveira da Silva! 👋 I'm a 7th-semester Information Systems student at UFF and a Full Stack Developer intern at the State Secretariat of Finance in Rio de Janeiro.
+    </p>
+    <p>
+        I specialize in Java, Python, C#, JavaScript, Angular, Spring Boot, and Django. I'm passionate about building scalable and efficient solutions.
+    </p>
+    <p>
+        Let's connect! <a href="mailto:jhonatan.oliveira.dev@gmail.com">Email</a> | 
+        <a href="https://github.com/jhonatan-oliveira">GitHub</a> | 
+        <a href="https://linkedin.com/in/jhonatan-oliveira">LinkedIn</a>
+    </p>
+    <hr>
+    <p>
+        Olá, sou Jhonatan Oliveira da Silva! 👋 Estou no 7º período de Sistemas de Informação na UFF e sou estagiário Full Stack na Secretaria de Estado de Fazenda do Rio de Janeiro.
+    </p>
+    <p>
+        Tenho especialização em Java, Python, C#, JavaScript, Angular, Spring Boot e Django. Sou apaixonado por criar soluções escaláveis e eficientes.
+    </p>
+    <p>
+        Vamos nos conectar! <a href="mailto:jhonatan.oliveira.dev@gmail.com">Email</a> | 
+        <a href="https://github.com/jhonatan-oliveira">GitHub</a> | 
+        <a href="https://linkedin.com/in/jhonatan-oliveira">LinkedIn</a>
+    </p>
 </div>
-<div>
-      <h1></h1>
-</div>
-
