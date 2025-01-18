@@ -18,6 +18,6 @@
     </p>
     <p>
         Vamos nos conectar! <a href="mailto:jhonatan.oliveira.dev@gmail.com">Email</a> | 
-        <a href="[https://linkedin.com/in/jhonatan-oliveira](https://www.linkedin.com/in/jhonatan-oliveira-da-silva-8a713b22a/)">LinkedIn</a>
+        <a href="https://www.linkedin.com/in/jhonatan-oliveira-da-silva-8a713b22a/">LinkedIn</a>
     </p>
 </div>
